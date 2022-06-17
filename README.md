@@ -4,7 +4,7 @@ My name is Artem, I'm Python developer from Innopolis University. Also intereste
 
 📫 How to reach me: https://batalov.me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bart02&layout=compact&langs_count=8&theme=dark" height="200px" /> <img src="https://github-readme-stats.vercel.app/api?username=bart02&count_private=true&theme=dark" height="200px" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bart02&layout=compact&langs_count=8&theme=dark" height="200px" /> <img src="https://github-readme-stats.vercel.app/api?username=bart02&count_private=true&theme=dark" height="200px" /></a>
 
 
 <!--

@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Artem, I'm Python developer from Innopolis University. Also interested in FrontEnd and Data Science.
+
+📫 How to reach me: https://batalov.me
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bart02&layout=compact&langs_count=8&theme=dark" height="200px" /> <img src="https://github-readme-stats.vercel.app/api?username=bart02&count_private=true&theme=dark" height="200px" />
+
+
 <!--
 **bart02/bart02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
